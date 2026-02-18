@@ -73,7 +73,7 @@ class Car extends Vehicle
     }
 
     
-    //   OVERRIDING METHOD (with parent::)
+    //   OVERRIDING METHOD (with parent::)  
      
     public function getInfo()
     {
